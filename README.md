@@ -31,13 +31,4 @@ The latest dataset can be downloaded directly from the above link.
 
 ---
 
-## 🛠️ Tech Stack
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- Matplotlib / Plotly  
-- Streamlit (if applicable)
-
----
-
 ## 📁 Project Structure
